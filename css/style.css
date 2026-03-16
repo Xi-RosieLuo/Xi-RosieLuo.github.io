@@ -40,10 +40,10 @@ color : rgb(30, 0, 255);
 text-decoration : underline;
 }
 #leftcont {
-position : absolute;
+position : fixed;
 top : 0;
 left : 0;
-width : 200px;
+width : 260px;
 margin-left : 30px;
 height : 100%;
 overflow : hidden;
