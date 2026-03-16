@@ -17,7 +17,7 @@ line-height : 200%;
 }
 .page{
     padding-top: 40px;
-    margin-left : 90px;
+    margin-left : 80px;
 }
 body > #leftcont {
 position : fixed;
@@ -44,7 +44,7 @@ text-decoration : underline;
 position : absolute;
 top : 0;
 left : 0;
-width : 260px;
+width : 270px;
 margin-left : 0px;
 height : 100%;
 overflow : hidden;
