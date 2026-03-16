@@ -17,6 +17,7 @@ line-height : 200%;
 }
 .page{
     padding-top: 40px;
+    margin-left : 30px;
 }
 body > #leftcont {
 position : fixed;
@@ -70,7 +71,7 @@ list-style-type : none;
 }
 #menu a {
 display : block;
-padding : 4px 20px;
+padding : 4px 18px;
 color : #666;
 text-decoration : none;
 width : 120px;
