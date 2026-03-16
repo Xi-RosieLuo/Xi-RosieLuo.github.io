@@ -17,7 +17,7 @@ line-height : 200%;
 }
 .page{
     padding-top: 40px;
-    margin-left : 280px;
+    margin-left : 250px;
 }
 body > #leftcont {
 position : fixed;
@@ -73,6 +73,7 @@ list-style-type : none;
 display : block;
 padding : 4px 18px;
 color : #666;
+white-space: nowrap;
 text-decoration : none;
 width : 120px;
 background : #eaeaea;
